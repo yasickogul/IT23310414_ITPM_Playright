@@ -1,3 +1,2 @@
-file_type,file_path,preview_detected,status,screenshot
-PNG,/Users/yasickogulathiyan/Documents/Y3S2/ITPM/playrighAss2/test_automation_ui/sample.png,True,PASS,/Users/yasickogulathiyan/Documents/Y3S2/ITPM/playrighAss2/test_automation_ui/results/preview_pass.png
-Pos_0004,Image format conversion,Upload valid PNG image and verify format conversion preview functionality,PNG,/Users/yasickogulathiyan/Documents/Y3S2/ITPM/playrighAss2/test_automation_ui/sample.png,False,FAIL,/Users/yasickogulathiyan/Documents/Y3S2/ITPM/playrighAss2/test_automation_ui/results/format_conversion_preview_error.png
+tc_id,feature,scenario,file_type,file_path,preview_detected,status,screenshot
+Pos_0008,Image resizing,Upload valid PNG image and verify preview functionality,PNG,/Users/yasickogulathiyan/Documents/Y3S2/ITPM/playrighAss2/test_automation_ui/sample.png,True,PASS,/Users/yasickogulathiyan/Documents/Y3S2/ITPM/playrighAss2/test_automation_ui/results/pos_0008_image_resize_preview_pass.png
